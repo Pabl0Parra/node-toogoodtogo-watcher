@@ -19,7 +19,7 @@
     },
     "telegram": {
       "enabled": true,
-      "botToken": "5702372349:AAGaKzoEq6Z-IiHPo--FC5sHLbryuGayvgo",
+      "botToken": "",
       "chats": []
     },
     "ifttt": {
